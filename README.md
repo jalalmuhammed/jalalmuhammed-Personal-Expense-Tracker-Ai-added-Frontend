@@ -9,7 +9,7 @@ A smart and efficient **Personal Expense Tracker** designed to help users record
 
 This project was originally built as a **command-line-based** expense tracker with powerful features like:
 
-- Expense addition, editing, deletion
+- Expense addition, editing, and deletion
 - Filtering by category and date
 - Monthly and category-wise summaries
 - CSV export functionality
@@ -22,9 +22,9 @@ To improve usability and interface design, the **frontend has been added using A
 
 ## ✨ Features
 
-### Backend (Python + Flask)
+### Backend (Python)
 
-- API to handle CRUD operations on expenses
+- Expense addition, editing, and deletion
 - Filter, summarize, and export data
 - Data validation and storage using JSON files
 - Flask-powered RESTful API
@@ -48,7 +48,7 @@ To improve usability and interface design, the **frontend has been added using A
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/expense-tracker-ai-frontend.git
+git clone https://github.com/jalalmuhammed-Personal-Expense-Tracker-Ai-added-Frontend.git
 cd expense-tracker-ai-frontend
 ```
 
@@ -106,14 +106,6 @@ Open `index.html` in your browser or navigate to `http://localhost:5000` after r
 
 - Backend fully handcrafted by [Your Name]
 - Frontend designed and enhanced using **AI tools** to demonstrate the integration of AI-assisted UI generation with developer-built logic
-
----
-
-## 📬 Contact
-
-For questions or collaboration:
-- 📧 your-email@example.com
-- 🌐 [LinkedIn](https://linkedin.com/in/your-profile)
 
 ---
 
