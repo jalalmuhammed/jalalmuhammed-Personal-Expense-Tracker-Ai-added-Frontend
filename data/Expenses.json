@@ -1,0 +1,86 @@
+[
+    {
+        "id": "5de5c2f6-4e03-4bd1-b28e-d840c3ff0702",
+        "date": "2025-05-10",
+        "amount": 736.0,
+        "category": "travel",
+        "description": "hampi"
+    },
+    {
+        "id": "7816b137-fa0b-4bad-9af7-7ed7f9b65ba7",
+        "date": "2025-06-21",
+        "amount": 566.0,
+        "category": "food",
+        "description": ""
+    },
+    {
+        "id": "f70e23c6-eb73-4e89-aa63-2770dcd8ee37",
+        "date": "2025-05-20",
+        "amount": 590.0,
+        "category": "misc",
+        "description": "chill"
+    },
+    {
+        "id": "988e006d-d955-4cab-8b52-36aa7f2d8861",
+        "date": "2025-01-23",
+        "amount": 855.0,
+        "category": "food",
+        "description": "chilling with friends"
+    },
+    {
+        "id": "44d6b1e1-5712-4cc9-8c4e-d302ef1eb782",
+        "date": "2025-06-23",
+        "amount": 520.0,
+        "category": "misc",
+        "description": ""
+    },
+    {
+        "id": "57c43820-e148-490f-9742-63eee5ea4bb5",
+        "date": "2025-06-24",
+        "amount": 52.0,
+        "category": "food",
+        "description": "cafe restaurant "
+    },
+    {
+        "id": "de65ae48-1ffa-4b55-820f-0c8f0a394626",
+        "date": "2025-06-24",
+        "amount": 565.0,
+        "category": "food",
+        "description": "happy day"
+    },
+    {
+        "id": "d2ff60ac-39a1-4b86-9aef-9cc782f938de",
+        "date": "2025-06-24",
+        "amount": 556.0,
+        "category": "food",
+        "description": "aaaaaaaaaaa"
+    },
+    {
+        "id": "930b4c96-1d88-4e0c-b43c-9976b1af19a5",
+        "date": "2025-06-24",
+        "amount": 535.0,
+        "category": "travel",
+        "description": "clg with auto"
+    },
+    {
+        "id": "c513b865-62af-4a89-9e6e-fc6cf965b25c",
+        "date": "2025-06-24",
+        "amount": 255.0,
+        "category": "food",
+        "description": "just hill"
+    },
+    {
+        "id": "6d7820b9-08a0-45f0-91fd-131945278c60",
+        "date": "2025-06-24",
+        "amount": 783.0,
+        "category": "food",
+        "description": "adad"
+    },
+    {
+        "id": "d768d924-f6ee-46da-91fc-8dea4ec46c7e",
+        "date": "2025-06-04",
+        "amount": 522.0,
+        "category": "travel",
+        "description": "karappuzha dam"
+    }
+]
